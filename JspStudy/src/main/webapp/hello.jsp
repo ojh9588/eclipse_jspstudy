@@ -17,6 +17,7 @@
   // document.write("<h1>"+hello+"</h1>");
   //</script>
 %>
-<%=str%>
+<hr>
+str의 값 출력=<%=str%>
 </body>
 </html>
